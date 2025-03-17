@@ -1,1 +1,2 @@
 "Agregando nueva funcionalidad"
+Mejora en la funcionalidad
